@@ -1,8 +1,8 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-username = 'tesy28677@gmail.com'
-password = 'test12!@' 
+username = 'your mail'
+password = 'your password' 
 
 
 
